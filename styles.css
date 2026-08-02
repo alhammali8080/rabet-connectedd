@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+/* الخطوط تُحمّل محلياً/من Google داخل التطبيق حسب بيئة التشغيل. */
+html, body, #root { min-height: 100%; }
+body { margin: 0; }
